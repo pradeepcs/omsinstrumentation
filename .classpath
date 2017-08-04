@@ -17,6 +17,5 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="E:/opt/IBM/jar/platform_afc/9_5/platform_afc.jar"/>
-	<classpathentry kind="lib" path="E:/EAP-7.0.0/bin/client/jboss-client.jar" sourcepath="C:/Users/Mathi/AppData/Local/Temp/decompiler/source/wildfly-client-all-7.0.0.GA-redhat-2-sources.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
