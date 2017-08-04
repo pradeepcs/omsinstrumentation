@@ -1,2 +1,3 @@
 Manifest-Version: 1.0
-
+Boot-Class-Path: asm-all-5.2.jar;platform_afc.jar
+Premain-Class: org.csp.instrument.oms.agent.IntegrationAdapter
